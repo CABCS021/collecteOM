@@ -4,7 +4,7 @@ var map = new ol.Map({
     renderer: 'canvas',
     layers: layersList,
     view: new ol.View({
-        extent: [533768.407853, 5942074.577102, 544232.273680, 5950519.588161], maxZoom: 17, minZoom: 11
+        extent: [533768.407853, 5942074.577102, 544232.273680, 5950519.588161], maxZoom: 17, minZoom: 10
     })
 });
 
